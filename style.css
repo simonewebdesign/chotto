@@ -1,3 +1,8 @@
+body {
+    display: grid;
+    grid-template-columns: 20% 30% 50%;
+}
+
 body > aside {
     background-color: rgba(255,0,0,.1);
 }
